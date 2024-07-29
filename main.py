@@ -10,6 +10,7 @@ def main():
     soup = BeautifulSoup(page, 'html.parser')
     table = soup.find("div", class_="shoptable flextable")
 
+    shop_name = url.split("/")[-1]
     current_category = None
     current_sub_category = None
     default_sub_category = "default"
@@ -45,6 +46,7 @@ def main():
             sub_category = current_sub_category if div.find('div', class_='dmtabind') else default_sub_category
 
             results.append({
+                'shop': shop_name,
                 'category': current_category,
                 'sub_category': sub_category,
                 'item_name': item_name,
@@ -58,6 +60,7 @@ def main():
 
     for result in results:
         print("\n")
+        print(result["shop"])
         print(result["category"])
         print(result["sub_category"])
         print(result["item_name"])

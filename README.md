@@ -3,3 +3,13 @@
 - translate the content
 - add my own personal content
 - put everything in a local database
+
+Classes to create (TO-DO LIST):
+- ShopScraper (Collect content of a single shop)
+- Item (An item with its attributes)
+- Shop (Every item of a shop)
+- ItemManager (Centralise every shop and delete duplicates)
+- CSVExporter (Extract every items in a single table to translate the content)
+- DatabaseManager (Use CSV files and create a database)
+
+
