@@ -35,7 +35,18 @@ def main():
     shop.init_shop()
     print(shop.shop_name)
     print(shop.stock)
-
+    print(shop.stock[1])
+    print(shop.stock[1].id)
+    print(shop.stock[1].shop)
+    print(shop.stock[1].category)
+    print(shop.stock[1].sub_category)
+    print(shop.stock[1].item_name)
+    print(shop.stock[1].price_base)
+    print(shop.stock[1].weight)
+    print(shop.stock[1].limited_stock)
+    print(shop.stock[1].rural)
+    print(shop.stock[1].urban)
+    print(shop.stock[1].description)
 
 
 if __name__ == '__main__':
