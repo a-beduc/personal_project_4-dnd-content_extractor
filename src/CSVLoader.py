@@ -13,7 +13,7 @@ class CSVLoader:
 
     @staticmethod
     def create_csv_directory():
-        category_dir = os.path.join("csv")
+        category_dir = os.path.join("csv-extracted")
         os.makedirs(category_dir, exist_ok=True)
         return category_dir
 
@@ -40,8 +40,6 @@ def main():
     csv_loader = CSVLoader(shop)
     print(csv_loader.list_of_items)
     csv_loader.load_shop()
-
-
 
 
 if __name__ == '__main__':

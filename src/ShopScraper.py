@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 
 
+class URLScraper:
+    pass
+
+
 class ShopScraper:
     def __init__(self, url):
         self.url = url
@@ -23,17 +27,25 @@ class ShopScraper:
         weight_text = weight_text.replace("Weight:", "").strip()
         if weight_text == "—" or not weight_text:
             return "NULL"
-        return weight_text
+        weight_text = weight_text.replace("lb.", "").strip()
+        weight_text = weight_text.replace("¼", "0.25").replace("½", "0.5").strip()
+
+        weight_list = list(filter(None, weight_text.split(" ")))
+        weight_value = sum(map(float, weight_list))
+
+        transformation_lb_to_kg = float(round(weight_value * 0.45359237, 2))
+
+        return transformation_lb_to_kg
 
     @staticmethod
     def clean_price(price_text):
         price_text = price_text.replace("Cost:", "").strip()
         if "cp" in price_text:
             price_text = price_text.replace("cp", "").strip()
-            price_text = int(price_text)/100
+            price_text = int(price_text) / 100
         elif "sp" in price_text:
             price_text = price_text.replace("sp", "").strip()
-            price_text = int(price_text)/10
+            price_text = int(price_text) / 10
         elif "gp" in price_text:
             price_text = price_text.replace("gp", "").strip()
             price_text = float(price_text)
