@@ -33,17 +33,15 @@ class CSVLoader:
                 csv_writer.writerow(dictionary_of_item)
 
 
-class CSVExtractor:
-    pass
-
-
 def main():
     url = "https://www.thievesguild.cc/shops/shop-inntavern"
-    shop = Shop(url)
-    shop.init_shop()
+    shop = Shop(init_url=url)
+    shop.init_shop_from_url()
     csv_loader = CSVLoader(shop)
     print(csv_loader.list_of_items)
     csv_loader.load_shop()
+
+
 
 
 if __name__ == '__main__':
