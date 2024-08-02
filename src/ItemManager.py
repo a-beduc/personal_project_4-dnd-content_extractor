@@ -12,7 +12,7 @@ class ItemManager:
     def get_list_of_path(self):
         list_of_path = []
         for filename in os.listdir(self.directory_path):
-            if filename.endswith('equipement.csv'):
+            if filename.endswith('.csv'):
                 file_path = os.path.join(self.directory_path, filename)
                 list_of_path.append(file_path)
         return list_of_path
