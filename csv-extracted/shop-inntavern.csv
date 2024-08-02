@@ -1,0 +1,93 @@
+id,shop,category,sub_category,item_name,description,price_base,weight,limited_stock,rural,urban
+1,shop-inntavern,Menu - Breakfast Options,Commoner,Meat Stick,NULL,0.03,NULL,False,True,True
+2,shop-inntavern,Menu - Breakfast Options,Commoner,Roasted Locusts,NULL,0.03,NULL,False,True,True
+3,shop-inntavern,Menu - Breakfast Options,Commoner,Cheese Omelet,NULL,0.04,NULL,False,True,False
+4,shop-inntavern,Menu - Breakfast Options,Commoner,Ham & Cheese on Rye,NULL,0.05,NULL,False,True,True
+5,shop-inntavern,Menu - Breakfast Options,Merchant,Bacon & Egg Sandwich,NULL,0.3,NULL,True,True,True
+6,shop-inntavern,Menu - Breakfast Options,Merchant,"Omelet ""Your Way""",NULL,0.3,NULL,False,True,True
+7,shop-inntavern,Menu - Breakfast Options,Merchant,Bloodhawk Eggs,NULL,0.4,NULL,False,True,True
+8,shop-inntavern,Menu - Breakfast Options,Merchant,Bacon Stuffed Bread,NULL,0.5,NULL,True,True,True
+9,shop-inntavern,Menu - Breakfast Options,Noble,Frittata & Herbs,NULL,1.0,NULL,True,False,True
+10,shop-inntavern,Menu - Breakfast Options,Noble,Bacon & Owlbear Eggs,NULL,2.0,NULL,True,False,True
+11,shop-inntavern,Menu - Breakfast Options,Noble,Boar Ham Steak & Eggs,NULL,2.0,NULL,True,False,True
+12,shop-inntavern,Menu - Breakfast Options,Noble,Truffle Omelet,NULL,3.0,NULL,True,False,True
+13,shop-inntavern,Menu - Lunch Options,Commoner,Stockpot Stew/ Soup,NULL,0.04,NULL,True,False,False
+14,shop-inntavern,Menu - Lunch Options,Commoner,"""Adventurer's"" Steak",NULL,0.04,NULL,False,True,True
+15,shop-inntavern,Menu - Lunch Options,Commoner,Minced Pork,NULL,0.05,NULL,False,True,True
+16,shop-inntavern,Menu - Lunch Options,Commoner,Roast Goat & Cheese,NULL,0.06,NULL,True,True,True
+17,shop-inntavern,Menu - Lunch Options,Merchant,Roast Lamb & Cheese,NULL,0.4,NULL,True,True,True
+18,shop-inntavern,Menu - Lunch Options,Merchant,Boar Tenderloin,NULL,0.5,NULL,False,True,True
+19,shop-inntavern,Menu - Lunch Options,Merchant,Baked Goose Breast,NULL,0.5,NULL,True,True,True
+20,shop-inntavern,Menu - Lunch Options,Merchant,Grilled Salmon,NULL,0.6,NULL,True,True,True
+21,shop-inntavern,Menu - Lunch Options,Noble,Rack of Lamb,NULL,2.0,NULL,True,False,True
+22,shop-inntavern,Menu - Lunch Options,Noble,Shellfish Platter,NULL,3.0,NULL,True,False,True
+23,shop-inntavern,Menu - Lunch Options,Noble,Dragon Turtle Soup,NULL,4.0,NULL,True,False,True
+24,shop-inntavern,Menu - Lunch Options,Noble,Roc Meat Tar Tar,NULL,5.0,NULL,True,False,True
+25,shop-inntavern,Menu - Dinner Options,Commoner,Stockpot Stew/ Soup,NULL,0.04,NULL,True,False,False
+26,shop-inntavern,Menu - Dinner Options,Commoner,Pigeon Pot Pie,NULL,0.05,NULL,False,True,True
+27,shop-inntavern,Menu - Dinner Options,Commoner,'Tasha’s Hideous Stew',NULL,0.05,NULL,False,True,True
+28,shop-inntavern,Menu - Dinner Options,Commoner,Rabbit and Potato Plate,NULL,0.06,NULL,True,True,True
+29,shop-inntavern,Menu - Dinner Options,Merchant,Hunter's Pie,NULL,0.4,NULL,True,True,True
+30,shop-inntavern,Menu - Dinner Options,Merchant,Bloodhawk Breast,NULL,0.5,NULL,False,True,True
+31,shop-inntavern,Menu - Dinner Options,Merchant,Crocodile Steak,NULL,0.5,NULL,False,True,True
+32,shop-inntavern,Menu - Dinner Options,Merchant,Roasted Bullywug Legs,NULL,0.6,NULL,True,True,True
+33,shop-inntavern,Menu - Dinner Options,Noble,Buffalo Ribeye,NULL,2.0,NULL,True,False,True
+34,shop-inntavern,Menu - Dinner Options,Noble,Sahuagin Caviar,NULL,3.0,NULL,False,True,True
+35,shop-inntavern,Menu - Dinner Options,Noble,Owlbear Steak & Eggs,NULL,4.0,NULL,False,True,True
+36,shop-inntavern,Menu - Dinner Options,Noble,[Color] Dragon Steak,NULL,5.0,NULL,True,False,True
+37,shop-inntavern,Drinks,Non-Alcoholic Beverages,Coffee (cup),NULL,0.05,NULL,False,True,True
+38,shop-inntavern,Drinks,Non-Alcoholic Beverages,"Goodberry ""Wine""",NULL,0.1,NULL,True,True,True
+39,shop-inntavern,Drinks,Non-Alcoholic Beverages,Fruit Juice (Varies),NULL,0.05,NULL,True,False,True
+40,shop-inntavern,Drinks,Non-Alcoholic Beverages,Milk (Local Variety),NULL,0.02,NULL,True,True,True
+41,shop-inntavern,Drinks,Wine,Abbey Red Wine,This red wine comes from a variety of abbeys and monasteries that produce wine to help support their way of life. Each of these wines is slightly different and most consumers have a particular abbey they prefer.,0.2,NULL,False,True,True
+42,shop-inntavern,Drinks,Wine,Bloodwine,"This very hearty wine is deep red in color and is said to be made from grapes grown over battlefields. Unknown to the public, it is actually made from raisins.",0.2,NULL,False,True,True
+43,shop-inntavern,Drinks,Wine,Clarry Wine,"This is a generic table wine, often water down, then sweetened with honey.",0.1,NULL,False,True,True
+44,shop-inntavern,Drinks,Wine,Evermead,"This elven mead is always brewed exactly the same and in secret. Every cup of this golden shimmering liquid tastes exactly the same; it is the perfect mix of sweetness, spice, and smoke. Rumor states that the mead is aged for one hundred years before ready for drinking. It is also rumored that elves on every Plane of Existence brew evermead exactly the same..",11.0,NULL,True,False,True
+45,shop-inntavern,Drinks,Wine,Far Ridge Red,This is a sweet dessert wine that is more rose than red colored. This wine claims to use a secret mix of grapes from all over the world. Those with a refined palate say the peculiar taste is just sugar covering up the water.,0.1,NULL,False,True,True
+46,shop-inntavern,Drinks,Wine,Fire Wine,This extremely strong and spicy wine is reputed to have medicinal qualities..,0.1,NULL,False,True,True
+47,shop-inntavern,Drinks,Wine,Glowfire,This is a pale chartreuse wine with very faint luminescence in darkness. This wine has a strong pear taste.,0.2,NULL,False,True,True
+48,shop-inntavern,Drinks,Wine,Highdusk Dark,This sweet spicy wine is almost black in color and has a very high alcohol content..,1.0,NULL,False,True,True
+49,shop-inntavern,Drinks,Wine,Mead Wine,Mead is only made with honey and it is easily fouled and hard to make. The price reflects the difficulty making it and it is definitely an acquired taste. Intoxication DC 9.,0.1,NULL,False,False,True
+50,shop-inntavern,Drinks,Wine,Redwood Dry,Very dry red fortified wine with a strong wood and berry taste.,0.1,NULL,False,True,True
+51,shop-inntavern,Drinks,Wine,Special Vat,"This pale fortified red wine causes the lips and tongue to go slightly numb and tingly. It tastes like grapes, strawberries, and raspberries.",0.2,NULL,False,True,True
+52,shop-inntavern,Drinks,Wine,Table Wine,"The only thing fouler than generic watered down table wine, purchased in bulk, are cooking wines. But for those looking for intoxication over cost or taste, table wine will work just fine..",0.06,NULL,False,True,True
+53,shop-inntavern,Drinks,Wine,Temple-Under-Rock,This is a very rare fortified wine on the surface and it is imported from a variety of underdark sources. It is always kept in opaque ceramic vessels as it quickly loses taste and its signature green glow if exposed to any light. This wine is rumored to be made of mushrooms that have never seen daylight.,0.4,NULL,True,False,True
+54,shop-inntavern,Drinks,Wine,Topaz,"This is a yellow to amber colored wine, slightly dry and balanced, with a nutty flavor.",0.2,NULL,False,True,True
+55,shop-inntavern,Drinks,Wine,Spiced Wine,This is a catch-all label for a wide variety of spiced or mulled wine made by different regions and city-states. The price listed is the average price.,0.1,NULL,False,True,True
+56,shop-inntavern,Drinks,Wine,Westgate Ruby,This is a bold crimson wine with a slightly bitter taste and is one of the most commonly found wines considered acceptable to serve to one's guests.,0.1,NULL,False,True,True
+57,shop-inntavern,Drinks,Wine,Winter Wine,This fortified wine is usually only available in the summer when the passes to the frigid polar regions are open for trade. This pale purple-blue wine is very strong and very sweet.,0.2,NULL,False,True,True
+58,shop-inntavern,Drinks,Liquor,Absinthe,"A licorice flavored liquor, with a clear green tint. To serve correctly, the bartender places a spoon over a filled glass of absinthe, with the sugar cube on it, underneath one of the taps on the fountain. Water slowly drips onto the sugar until it has dissolved.",2.0,NULL,True,False,True
+59,shop-inntavern,Drinks,Liquor,Cherry Fire,"A cherry liquor with a strong, spicy kick.",0.2,NULL,False,True,True
+60,shop-inntavern,Drinks,Liquor,Death Wish,This liquor is pale yellow and is always served with a mouse skull. It smells of sunflower oil.,1.0,NULL,False,True,True
+61,shop-inntavern,Drinks,Liquor,Elquestria,This is the generic name given to elven liquors that are made for export by non-elven distributors. These weak liquors vary per region but most are gins that smell like a forest after a heavy rain.,3.0,NULL,False,True,True
+62,shop-inntavern,Drinks,Liquor,Elverquis,This rare and expensive liquor is said to be distilled from sunlight and rare berries. This drink is often used sparingly in various elven rituals and is rarely exported. It is always stored in glass bottle/jug..,56.0,NULL,True,False,False
+63,shop-inntavern,Drinks,Liquor,Fireball,This is a cinnamon schnapps that is hard to get used to. It was originally marketed for spellcasters to drink but it never really caught on. Its sits on most bar shelves as a gimmick more than anything else.,1.0,NULL,False,False,True
+64,shop-inntavern,Drinks,Liquor,Flindmaker,"This clear liquor smells vaguely of rotten eggs and was originally made by gnolls. Certain barbarian tribes and hill giant clans began to drink it as a right of passage. It has gained prominence as the drink to start a celebration, ""because everything else will taste better.""",1.0,NULL,True,True,True
+65,shop-inntavern,Drinks,Liquor,Hog Piss,"This eloquently named swill is one of the cheapest liquors known. It tastes terrible, causes horrendous hangovers, and is very widely distributed or made ""out back.""",0.02,NULL,False,True,True
+66,shop-inntavern,Drinks,Liquor,Kumis,"This is fermented horse milk. It isn’t terribly rare but is not purchased very often outside of certain regions. The taste of this weak liquor is very ""acquired.""",0.4,NULL,False,True,True
+67,shop-inntavern,Drinks,Liquor,Seawine,This potent grain alcohol is not wine and not made from grapes. It is similar to a very potent grain alcohol distilled from starches found in saltwater swamps and coastal regions. The taste is said to be rather terrible but seawine is not drunk for its taste; it is drunk for its incredible potency. This stuff is very flammable.,0.2,NULL,True,True,False
+68,shop-inntavern,Drinks,Liquor,Shasta,"This is a cheap sake that is not distilled but brewed. Grain alcohol and other extracts have been added to it to the point where it is barely sake anymore. This is what a merchant might drink when pretending to have taste. If nothing else, shasta is very potent..",0.2,NULL,True,False,True
+69,shop-inntavern,Drinks,Liquor,Vodka,"A clear liquor, traditionally made by distilling the liquid from cereal grains that have been fermented. Rarer vodka uses potatoes or fruits as the base. The price listed is for medium quality vodka. The very best vodka can cost 20 times as much.",1.0,NULL,True,True,True
+70,shop-inntavern,Drinks,Liquor,White Eye Whiskey,"This whiskey has recently hit the market and is stamped with a large blind eye. The literature says it's brewed by the famous pirate, White Eye, who no one has ever heard of. But one thing is for certain; this perfectly aged and smokey whiskey is one of the best whiskeys being made now: at this price it should be.",3.0,NULL,True,False,True
+71,shop-inntavern,Drinks,Liquor,Zzar,This is technically a heavily fortified sherry wine. It is said to taste better in salty air and has become the liquor of choice among sea pirates and merchants..,1.5,NULL,False,True,True
+72,shop-inntavern,Drinks,Ale,Bitter Black,"1 mug. This is a very dark stout exported from Arabel, a fortified city in northern Cormyr (Faerun). This heavy beer tasted best when served at cellar temperatures. Arabellans looked down upon anyone drinking it at a different temperature. Bitter Black had a dark black color with a thick head of deep brown foam..",0.09,NULL,False,True,True
+73,shop-inntavern,Drinks,Ale,Bleak Stout,1 mug. This dark brown stout has almost double the normal alcohol level and its taste is very bitter with a strong chocolate aftertaste..,0.1,NULL,False,True,True
+74,shop-inntavern,Drinks,Ale,Dragon's Breath,"1 mug. This is a bitter dark beer known for its foul smell. It has a strong harsh flavor, and is best served with dark rye bread and cheese. It is exported from Sembia (located on the north-western coast of the Sea of Fallen Stars in central Faerûn)..",0.02,NULL,False,True,True
+75,shop-inntavern,Drinks,Ale,Goblin Piss,"Goblins call this terrible liquid ""boblin,"" while other humanoids call it, ""goblin piss."" This substance is only not poisonous because of the amount of water in it..",0.01,NULL,True,True,False
+76,shop-inntavern,Drinks,Ale,Golden Sands Ale,"Golden sands ale comes in basic, gold, and orange flavors. The prices are the same for both ales.",0.03,NULL,False,True,True
+77,shop-inntavern,Drinks,Ale,Halfling's Best,"This beer is as black as ink, but sweet",0.1,NULL,False,True,True
+78,shop-inntavern,Drinks,Ale,North Brew,This dark amber beer is one of the cheapest beers that won’t poison you.,0.01,NULL,False,True,True
+79,shop-inntavern,Drinks,Ale,Old One Eye,This lager has a red color and it is rumored to be brewed with hot peppers.,0.03,NULL,False,True,True
+80,shop-inntavern,Drinks,Ale,Purple Noble,This ale is crystal clear and filled with hidden flavors that are changed annually. The wealthy brag about being able to discern the year based on what tastes are included. This ale is mostly a status symbol. The ale has no purple coloration and the origin of its name is included in at least forty different and contradictory ballads.,0.2,NULL,True,False,True
+81,shop-inntavern,Drinks,Ale,Shadowdark Ale,This ale is frothy and brown.,0.04,NULL,False,True,True
+82,shop-inntavern,Drinks,Ale,Wizard's Choice,This is a yeasty red beer..,0.04,NULL,True,False,True
+83,shop-inntavern,Drinks,Ale,Hill Cider,This cider is fermented with a secret mix of fruits and apples and has a dark orange color. This cider is as alcoholic as a strong wine..,0.1,NULL,False,False,True
+84,shop-inntavern,Drinks,Ale,Knee Cracker Cider,"This is the most readily available cider. It is cheap, gritty, and inconsistent in flavor.",0.01,NULL,False,True,True
+85,shop-inntavern,Drinks,Ale,Troll Pear Cider,"This pear cider is as exclusive as it is flavorful. What a pear has to do with a troll is not explained but the marketing has caught on. For those who can afford it, this is the finest cider to be found.",0.2,NULL,True,False,True
+86,shop-inntavern,Drinks,Ale,Vilhoun Cider,This cider is known for its strong cherry flavor and its smoothness. It is usually served piping hot. Common in cold climates.,0.1,NULL,False,True,True
+87,shop-inntavern,"Food, Drink & Lodging",Inn stay (per day),"Stay, Squalid Inn",NULL,0.07,NULL,True,False,False
+88,shop-inntavern,"Food, Drink & Lodging",Inn stay (per day),"Stay, Poor Inn",NULL,0.1,NULL,True,True,True
+89,shop-inntavern,"Food, Drink & Lodging",Inn stay (per day),"Stay, Modest Inn",NULL,0.5,NULL,True,True,True
+90,shop-inntavern,"Food, Drink & Lodging",Inn stay (per day),"Stay, Comfortable Inn",NULL,0.8,NULL,True,True,True
+91,shop-inntavern,"Food, Drink & Lodging",Inn stay (per day),"Stay, Wealthy Inn",NULL,2.0,NULL,True,False,True
+92,shop-inntavern,"Food, Drink & Lodging",Inn stay (per day),"Stay, Aristocratic Inn",NULL,4.0,NULL,True,False,False

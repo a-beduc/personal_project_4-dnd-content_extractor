@@ -1,0 +1,29 @@
+id,shop,category,sub_category,item_name,description,price_base,weight,limited_stock,rural,urban
+1,shop-arcane,Weapons,Simple Melee Weapons,Quarterstaff,"A staff of wood from 6 to 9 feet (about 2 to 3 m) long, used for attack and defense. Proficiency with a quarterstaff allows you to add your proficiency bonus to the attack roll for any attack you make with it.",0.2,1.81,True,True,True
+2,shop-arcane,Adventuring Gear,default,Abacus,A standard tool used to make calculations.,2.0,0.91,False,False,True
+3,shop-arcane,Adventuring Gear,Arcane Focus,Crystal,"An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",10.0,0.45,True,True,True
+4,shop-arcane,Adventuring Gear,Arcane Focus,Orb,"An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",20.0,1.36,False,False,True
+5,shop-arcane,Adventuring Gear,Arcane Focus,Rod,"An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",10.0,0.91,False,True,True
+6,shop-arcane,Adventuring Gear,Arcane Focus,Staff,"An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",5.0,1.81,True,True,True
+7,shop-arcane,Adventuring Gear,Arcane Focus,Wand,"An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",10.0,0.45,True,True,True
+8,shop-arcane,Adventuring Gear,default,"Bottle, glass",A bottle can hold 1 1/2 pints of liquid.,2.0,0.91,False,True,True
+9,shop-arcane,Adventuring Gear,default,Candle,"For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.",0.01,NULL,False,True,True
+10,shop-arcane,Adventuring Gear,default,"Case, Map or Scroll",This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.,1.0,0.45,False,True,True
+11,shop-arcane,Adventuring Gear,default,Component Pouch,"A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).",25.0,0.91,False,True,True
+12,shop-arcane,Adventuring Gear,Druidic Focus,Sprig of Mistletoe,A druid can use a Sprig of Mistletoe (or holly) as a spellcasting focus.,1.0,NULL,True,True,True
+13,shop-arcane,Adventuring Gear,Druidic Focus,Totem,A druid can use a Totem as a spellcasting focus.,1.0,NULL,False,False,True
+14,shop-arcane,Adventuring Gear,Druidic Focus,Wooden Staff,A druid can use a Wooden Staff as a spellcasting focus.,5.0,1.81,True,True,True
+15,shop-arcane,Adventuring Gear,Druidic Focus,Yew Wand,A druid can use a Yew Wand as a spellcasting focus.,10.0,0.45,False,True,True
+16,shop-arcane,Adventuring Gear,default,Hourglass,A standard hourglass used to measure the passage of time.,25.0,0.45,False,False,False
+17,shop-arcane,Adventuring Gear,default,Ink (1 ounce bottle),Ink is typically used with an ink pen to write.,10.0,NULL,False,True,True
+18,shop-arcane,Adventuring Gear,default,Ink Pen,An ink pen is a wooden stick with a special tip on the end. It can also be a feathered quill with a sharpened tip. The tip draws ink in when dipped in a vial and leaves an ink trail when drawn across a surface.,0.02,NULL,False,True,True
+19,shop-arcane,Adventuring Gear,default,Paper (one sheet),A sheet of standard paper is made from cloth fibers.,0.2,NULL,False,False,True
+20,shop-arcane,Adventuring Gear,default,Parchment (one sheet),A sheet of parchment is a piece of goat hide or sheepskin that has been prepared for writing on.,0.1,NULL,False,True,True
+21,shop-arcane,Adventuring Gear,default,Pouch,"A cloth or leather pouch can hold 1/5 cubic foot/ 6 pounds of gear - or up to 20 sling bullets or 50 blowgun needles, among other things. Note: This is different from a- which is a compartmentalized pouch for holding spell components.",0.5,0.45,False,True,True
+22,shop-arcane,Adventuring Gear,default,Robes,A standard set of robes.,1.0,1.81,False,False,True
+23,shop-arcane,Adventuring Gear,default,Spellbook,"Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.",50.0,1.36,False,True,True
+24,shop-arcane,Adventuring Gear,default,Vial,A vial can hold 4 ounces of liquid.,1.0,NULL,False,True,True
+25,shop-arcane,Tools and Kits,Artisan's Tools,Alchemist's Supplies,"Alchemist's supplies enable a character to produce useful concoctions, such as acid or alchemist's fire.  Crafting alchemical items can be done by using materials worth half the price of purchasing the item.",50.0,3.63,False,True,True
+26,shop-arcane,Tools and Kits,Artisan's Tools,Calligrapher's Supplies,"Calligraphy treats writing as a delicate, beautiful art. Calligraphers produce text that is pleasing to the eye, using a style that is difficult to forge. Their supplies also give them some ability to examine scripts and determine if they are legitimate, since a calligrapher's training involves long hours of studying writing and attempting to replicate its style and design.",10.0,2.27,False,False,True
+27,shop-arcane,Tools and Kits,Musical Instruments,Lute,"A stringed musical instrument having a long, fretted neck and a hollow, typically pear or oval-shaped body with a vaulted back.",35.0,0.91,False,False,True
+28,shop-arcane,Tools and Kits,Musical Instruments,Lyre,A stringed instrument of the harp class having an approximately U-shaped frame and used by the ancient Greeks especially to accompany song and recitation.DC 10 - Identify a tuneDC 20 - Improvise a tune,30.0,0.91,False,False,False
