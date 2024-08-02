@@ -12,4 +12,20 @@ Classes to create (TO-DO LIST):
 - CSVExporter (Extract every items in a single table to translate the content)
 - DatabaseManager (Use CSV files and create a database)
 
+2024/08/02 Notes :
 
+Table items :
+ID
+Name (eng) [key]
+Name (fr)
+Description
+Category
+Sub-Category
+Price
+Weight
+
+Table Shop x :
+Name (eng) [key]
+Urban
+Rural
+Stock
