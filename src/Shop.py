@@ -6,15 +6,17 @@ import os
 
 class Shop:
     def __init__(self, init_url=None, init_csv_file_path=None):
+        self.stock = {}
         if init_url is not None:
             self.url = init_url
             self.shop_name = init_url.split("/")[-1]
             self.scraper = ShopScraper(init_url)
+            self.init_shop_from_url()
         if init_csv_file_path is not None:
             self.csv_file_path = init_csv_file_path
             self.shop_name = init_csv_file_path.split(".")[-2].split("\\")[-1]
             self.csv_extractor = CSVExtractor(init_csv_file_path)
-        self.stock = {}
+            self.init_shop_from_csv()
 
     def init_shop_from_url(self):
         i = 0
@@ -56,25 +58,26 @@ class Shop:
 
 
 def main():
-    url = "https://www.thievesguild.cc/shops/shop-inntavern"
-    shop = Shop(init_url=url)
-    shop.init_shop_from_url()
-    print(shop.shop_name)
-    print(shop.stock)
-    print(shop.stock[90])
-    print(shop.stock[90].id)
-    print(shop.stock[90].shop)
-    print(shop.stock[90].category)
-    print(shop.stock[90].sub_category)
-    print(shop.stock[90].item_name)
-    print(shop.stock[90].price_base)
-    print(shop.stock[90].weight)
-    print(shop.stock[90].limited_stock)
-    print(shop.stock[90].rural)
-    print(shop.stock[90].urban)
-    print(shop.stock[90].description)
+    # url = "https://www.thievesguild.cc/shops/shop-inntavern"
+    # shop = Shop(init_url=url)
+    # shop.init_shop_from_url()
+    # print(shop.shop_name)
+    # print(shop.stock)
+    # print(shop.stock[90])
+    # print(shop.stock[90].id)
+    # print(shop.stock[90].shop)
+    # print(shop.stock[90].category)
+    # print(shop.stock[90].sub_category)
+    # print(shop.stock[90].item_name)
+    # print(shop.stock[90].price_base)
+    # print(shop.stock[90].weight)
+    # print(shop.stock[90].limited_stock)
+    # print(shop.stock[90].rural)
+    # print(shop.stock[90].urban)
+    # print(shop.stock[90].description)
 
-    path = os.path.join("..", "csv", "shop-inntavern.csv")
+    path = os.path.join("..", "csv-extracted", "shop-inntavern.csv")
+    print(path)
     shop2 = Shop(init_csv_file_path=path)
     shop2.init_shop_from_csv()
     print(shop2.shop_name)
