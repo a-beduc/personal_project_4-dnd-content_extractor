@@ -15,7 +15,7 @@ class ShopScraper:
     def create_table_soup(self):
         page = requests.get(self.url).text
         soup = BeautifulSoup(page, "html.parser")
-        table = soup.find("div", class_="shoptable flextable")
+        table = soup.find("div", class_="flextable")
         return table
 
     @staticmethod
@@ -75,9 +75,14 @@ class ShopScraper:
                 price_base = self.clean_price(div.find("div", class_="col2").get_text(strip=True))
                 weight = self.clean_weight(div.find("div", class_="col5").get_text(strip=True))
 
-                limited_stock = self.contains_checkmark(div.find('div', class_='col6').get_text(strip=True))
-                rural = self.contains_checkmark(div.find("div", class_="col7").get_text(strip=True))
-                urban = self.contains_checkmark(div.find("div", class_="col8").get_text(strip=True))
+                col6 = div.find("div", class_="col6")
+                limited_stock = self.contains_checkmark(col6.get_text(strip=True)) if col6 else False
+
+                col7 = div.find("div", class_="col7")
+                rural = self.contains_checkmark(col7.get_text(strip=True)) if col7 else False
+
+                col8 = div.find("div", class_="col8")
+                urban = self.contains_checkmark(col8.get_text(strip=True)) if col8 else False
 
                 description_div = div.find_next_sibling("div")
 
