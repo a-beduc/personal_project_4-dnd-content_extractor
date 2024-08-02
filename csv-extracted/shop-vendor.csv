@@ -1,0 +1,103 @@
+id,shop,category,sub_category,item_name,description,price_base,weight,limited_stock,rural,urban
+1,shop-vendor,Vendor/Stand,Fruits (one piece),Fruit (in season),NULL,0.01,NULL,False,True,True
+2,shop-vendor,Vendor/Stand,Fruits (one piece),Fruit (out of season),NULL,0.05,NULL,True,False,False
+3,shop-vendor,Vendor/Stand,Vegetables,Amaranth Leaf/Greens (bushel),NULL,0.05,2.27,True,True,True
+4,shop-vendor,Vendor/Stand,Vegetables,Broccoli/Cauliflower (bushel),NULL,0.03,2.27,True,True,True
+5,shop-vendor,Vendor/Stand,Vegetables,Cabbage/ Lettuce (bushel),NULL,0.02,2.27,True,True,True
+6,shop-vendor,Vendor/Stand,Vegetables,"Fruit ""Vegetable"" (bushel)",NULL,0.05,2.27,True,True,True
+7,shop-vendor,Vendor/Stand,Vegetables,Legumes (bushel),NULL,0.04,2.27,True,True,True
+8,shop-vendor,Vendor/Stand,Vegetables,Root Vegetable/Tuber (bushel),NULL,0.01,2.27,True,True,True
+9,shop-vendor,Vendor/Stand,Grains,Amaranth (small sack),NULL,2.0,0.45,True,False,False
+10,shop-vendor,Vendor/Stand,Grains,Barley/Rye (small sack),NULL,0.02,0.45,False,True,True
+11,shop-vendor,Vendor/Stand,Grains,Oats (small sack),NULL,0.5,0.45,False,False,True
+12,shop-vendor,Vendor/Stand,Grains,Quinoa (small sack),NULL,1.0,0.45,False,False,True
+13,shop-vendor,Vendor/Stand,Grains,Rice (small sack),NULL,0.05,0.45,False,False,False
+14,shop-vendor,Vendor/Stand,Grains,Wheat (small sack),"Wheat is a grass widely cultivated for its seed, a cereal grain that is a worldwide staple food.",0.1,0.45,True,False,True
+15,shop-vendor,Vendor/Stand,Baked Goods (per item),Sweet Roll,NULL,0.1,NULL,True,False,True
+16,shop-vendor,Vendor/Stand,Baked Goods (per item),Seedcake,NULL,0.05,NULL,False,True,True
+17,shop-vendor,Vendor/Stand,Baked Goods (per item),Cheat/Wheaten Loaf,NULL,0.2,NULL,True,False,True
+18,shop-vendor,Vendor/Stand,Baked Goods (per item),Cheese Danish,NULL,0.1,NULL,True,False,True
+19,shop-vendor,Vendor/Stand,Baked Goods (per item),Fruit Tart,NULL,0.2,NULL,True,True,True
+20,shop-vendor,Vendor/Stand,Baked Goods (per item),Manchet Loaf,NULL,1.0,NULL,True,False,False
+21,shop-vendor,Vendor/Stand,Baked Goods (per item),Quince Bread Slice,NULL,0.2,NULL,True,False,False
+22,shop-vendor,Vendor/Stand,Baked Goods (per item),Rye Loaf,NULL,0.02,NULL,False,True,True
+23,shop-vendor,Vendor/Stand,Meats,Beef/Buffalo/Deer Meat,NULL,0.3,0.45,False,True,True
+24,shop-vendor,Vendor/Stand,Meats,Boar/Chicken/Pork Meat,NULL,0.08,0.45,False,True,True
+25,shop-vendor,Vendor/Stand,Meats,Dried / Salted Meat,NULL,0.03,0.45,False,True,True
+26,shop-vendor,Vendor/Stand,Meats,Eggs (half dozen),NULL,0.03,0.45,False,True,True
+27,shop-vendor,Vendor/Stand,Meats,Fish,NULL,0.6,0.45,True,False,True
+28,shop-vendor,Vendor/Stand,Meats,Small Game Meat (rabbit),NULL,0.04,0.45,False,True,True
+29,shop-vendor,Vendor/Stand,Meats,Insect Meat,NULL,0.02,0.45,False,True,True
+30,shop-vendor,Vendor/Stand,Meats,Goat Meat,NULL,0.1,0.45,True,False,True
+31,shop-vendor,Vendor/Stand,Meats,Lamb Meat,NULL,1.0,0.45,True,False,False
+32,shop-vendor,Vendor/Stand,Meats,Shellfish,NULL,0.6,0.45,True,True,True
+33,shop-vendor,Vendor/Stand,Cheeses (wedge),"Cheese, Brie",NULL,0.2,0.23,False,False,False
+34,shop-vendor,Vendor/Stand,Cheeses (wedge),"Cheese, Cheddar",NULL,1.0,0.23,False,True,True
+35,shop-vendor,Vendor/Stand,Cheeses (wedge),"Cheese, Cottage",NULL,0.04,0.23,False,False,True
+36,shop-vendor,Vendor/Stand,Cheeses (wedge),"Cheese, Parmesan",NULL,0.5,0.23,True,True,True
+37,shop-vendor,Vendor/Stand,Cheeses (wedge),"Cheese, Specialty",NULL,2.0,0.23,True,False,True
+38,shop-vendor,Vendor/Stand,Spices (ground),Cinnamon,Cinnamon is a spice obtained from the inner bark of the cinnamon trees. Cinnamon is used mainly as an aromatic condiment and flavoring additive.,2.0,0.45,True,False,True
+39,shop-vendor,Vendor/Stand,Spices (ground),Coriander,NULL,0.05,0.45,True,False,True
+40,shop-vendor,Vendor/Stand,Spices (ground),Cumin,NULL,1.0,0.45,True,False,True
+41,shop-vendor,Vendor/Stand,Spices (ground),Ginger,Ginger is a flowering plant whose root is widely used as a spice and medicinal ingredient.,0.7,0.45,True,False,True
+42,shop-vendor,Vendor/Stand,Spices (ground),Mustard,NULL,1.0,0.45,True,False,True
+43,shop-vendor,Vendor/Stand,Spices (ground),Nutmeg,NULL,0.8,0.45,True,False,True
+44,shop-vendor,Vendor/Stand,Spices (ground),Pepper,"Pepper comes from several species of a vinous plant, the spice being the fruit, called peppercorns. Black pepper is the dried, unripe berry. The corns are wrinkled and spherical.",0.1,0.45,True,True,True
+45,shop-vendor,Vendor/Stand,Spices (ground),Saffron,"Saffron is a spice derived from crocus flowers. The vivid crimson threads, are collected and dried for use mainly as a seasoning and coloring agent in food.",1.0,0.45,True,False,True
+46,shop-vendor,Vendor/Stand,Spices (ground),Salt,"Salt is one of the oldest and most ubiquitous food seasonings, and salting is an important method of food preservation.",0.05,0.45,True,True,True
+47,shop-vendor,Vendor/Stand,Spices (ground),"Spice, Specialty",NULL,0.2,0.45,True,False,True
+48,shop-vendor,Drinks,Ale,Bitter Black[10 gallon cask],"This is a very dark stout exported from Arabel, a fortified city in northern Cormyr (Faerun). This heavy beer tasted best when served at cellar temperatures. Arabellans looked down upon anyone drinking it at a different temperature. Bitter Black had a dark black color with a thick head of deep brown foam..",5.0,40.82,False,True,True
+49,shop-vendor,Drinks,Ale,Bleak Stout[10 gallon cask],This dark brown stout has almost double the normal alcohol level and its taste is very bitter with a strong chocolate aftertaste..,7.0,40.82,False,True,True
+50,shop-vendor,Drinks,Ale,Dragon's Breath[10 gallon cask],"This is a bitter dark beer known for its foul smell. It has a strong harsh flavor, and is best served with dark rye bread and cheese. It is exported from Sembia (located on the north-western coast of the Sea of Fallen Stars in central Faerûn)..",1.6,40.82,False,True,True
+51,shop-vendor,Drinks,Ale,Goblin Piss[10 gallon cask],"Goblins call this terrible liquid ""boblin,"" while other humanoids call it, ""goblin piss."" This substance is only not poisonous because of the amount of water in it..",1.4,40.82,True,True,False
+52,shop-vendor,Drinks,Ale,Golden Sands Ale[10 gallon cask],"Golden sands ale comes in basic, gold, and orange flavors. The prices are the same for both ales.",2.6,40.82,False,True,True
+53,shop-vendor,Drinks,Ale,Halfling's Best[10 gallon cask],"This beer is as black as ink, but sweet and fruity..",5.0,40.82,False,True,True
+54,shop-vendor,Drinks,Ale,North Brew[10 gallon cask],This dark amber beer is one of the cheapest beers that won’t poison you.,1.4,40.82,False,True,True
+55,shop-vendor,Drinks,Ale,Old One Eye[10 gallon cask],This lager has a red color and it is rumored to be brewed with hot peppers.,2.5,40.82,False,True,True
+56,shop-vendor,Drinks,Ale,Purple Noble[10 gallon cask],This ale is crystal clear and filled with hidden flavors that are changed annually. The wealthy brag about being able to discern the year based on what tastes are included. This ale is mostly a status symbol. The ale has no purple coloration and the origin of its name is included in at least forty different and contradictory ballads.,8.0,40.82,True,False,True
+57,shop-vendor,Drinks,Ale,Shadowdark Ale[10 gallon cask],This ale is frothy and brown.,3.0,40.82,False,True,True
+58,shop-vendor,Drinks,Ale,Wizard's Choice[10 gallon cask],This is a yeasty red beer..,2.5,40.82,True,False,True
+59,shop-vendor,Drinks,Ale,Hill Cider[10 gallon cask],This cider is fermented with a secret mix of fruits and apples and has a dark orange color. This cider is as alcoholic as a strong wine..,5.0,40.82,False,False,True
+60,shop-vendor,Drinks,Ale,Knee Cracker Cider[10 gallon cask],"This is the most readily available cider. It is cheap, gritty, and inconsistent in flavor.",1.4,40.82,False,True,True
+61,shop-vendor,Drinks,Ale,Troll Pear Cider[10 gallon cask],"This pear cider is as exclusive as it is flavorful. What a pear has to do with a troll is not explained but the marketing has caught on. For those who can afford it, this is the finest cider to be found.",10.0,40.82,True,False,True
+62,shop-vendor,Drinks,Ale,Vilhoun Cider[10 gallon cask],This cider is known for its strong cherry flavor and its smoothness. It is usually served piping hot. Common in cold climates.,7.0,40.82,False,True,True
+63,shop-vendor,Drinks,Wine,Abbey Red Wine[10 gallon cask],This red wine comes from a variety of abbeys and monasteries that produce wine to help support their way of life. Each of these wines is slightly different and most consumers have a particular abbey they prefer.,12.0,40.82,False,True,True
+64,shop-vendor,Drinks,Wine,Bloodwine[10 gallon cask],"This very hearty wine is deep red in color and is said to be made from grapes grown over battlefields. Unknown to the public, it is actually made from raisins.",12.0,40.82,False,True,True
+65,shop-vendor,Drinks,Wine,Clarry Wine[10 gallon cask],"This is a generic table wine, often water down, then sweetened with honey.",6.0,40.82,False,True,True
+66,shop-vendor,Drinks,Wine,Evermead[2 gallon hand keg],"This elven mead is always brewed exactly the same and in secret. Every cup of this golden shimmering liquid tastes exactly the same; it is the perfect mix of sweetness, spice, and smoke. Rumor states that the mead is aged for one hundred years before ready for drinking. It is also rumored that elves on every Plane of Existence brew evermead exactly the same..",50.0,4.54,True,False,True
+67,shop-vendor,Drinks,Wine,Far Ridge Red[10 gallon cask],This is a sweet dessert wine that is more rose than red colored. This wine claims to use a secret mix of grapes from all over the world. Those with a refined palate say the peculiar taste is just sugar covering up the water.,7.0,40.82,False,True,True
+68,shop-vendor,Drinks,Wine,Fire Wine[10 gallon cask],This extremely strong and spicy wine is reputed to have medicinal qualities..,6.0,40.82,False,True,True
+69,shop-vendor,Drinks,Wine,Glowfire[10 gallon cask],This is a pale chartreuse wine with very faint luminescence in darkness. This wine has a strong pear taste.,9.0,40.82,False,True,True
+70,shop-vendor,Drinks,Wine,Highdusk Dark[10 gallon cask],This sweet spicy wine is almost black in color and has a very high alcohol content..,60.0,40.82,False,True,True
+71,shop-vendor,Drinks,Wine,Mead Wine[10 gallon cask],Mead is only made with honey and it is easily fouled and hard to make. The price reflects the difficulty making it and it is definitely an acquired taste..,8.0,40.82,False,False,True
+72,shop-vendor,Drinks,Wine,Redwood Dry[10 gallon cask],Very dry red fortified wine with a strong wood and berry taste.,8.0,40.82,False,True,True
+73,shop-vendor,Drinks,Wine,Special Vat[10 gallon cask],"This pale fortified red wine causes the lips and tongue to go slightly numb and tingly. It tastes like grapes, strawberries, and raspberries.",9.0,40.82,False,True,True
+74,shop-vendor,Drinks,Wine,Table Wine[10 gallon cask],"The only thing fouler than generic watered down table wine, purchased in bulk, are cooking wines. But for those looking for intoxication over cost or taste, table wine will work just fine..",3.0,40.82,False,True,True
+75,shop-vendor,Drinks,Wine,Temple-Under-Rock[10 gallon cask],This is a very rare fortified wine on the surface and it is imported from a variety of underdark sources. It is always kept in opaque ceramic vessels as it quickly loses taste and its signature green glow if exposed to any light. This wine is rumored to be made of mushrooms that have never seen daylight.,20.0,40.82,True,False,True
+76,shop-vendor,Drinks,Wine,Topaz[10 gallon cask],"This is a yellow to amber colored wine, slightly dry and balanced, with a nutty flavor.",7.0,40.82,False,True,True
+77,shop-vendor,Drinks,Wine,Spiced Wine[10 gallon cask],This is a catch-all label for a wide variety of spiced or mulled wine made by different regions and city-states. The price listed is the average price.,6.0,40.82,False,True,True
+78,shop-vendor,Drinks,Wine,Westgate Ruby[10 gallon cask],This is a bold crimson wine with a slightly bitter taste and is one of the most commonly found wines considered acceptable to serve to one's guests.,5.0,40.82,False,True,True
+79,shop-vendor,Drinks,Wine,Winter Wine[10 gallon cask],This fortified wine is usually only available in the summer when the passes to the frigid polar regions are open for trade. This pale purple-blue wine is very strong and very sweet.,11.0,40.82,False,True,True
+80,shop-vendor,Drinks,Liquor,Cherry Fire,"A cherry liquor with a strong, spicy kick.",0.5,4.08,False,True,True
+81,shop-vendor,Drinks,Liquor,Cherry Fire[5 gallon mini keg],"A cherry liquor with a strong, spicy kick.",4.2,20.41,False,True,True
+82,shop-vendor,Drinks,Liquor,Death Wish,This liquor is pale yellow and is always served with a mouse skull. It smells of sunflower oil.,3.0,4.08,False,True,True
+83,shop-vendor,Drinks,Liquor,Death Wish[5 gallon mini keg],This liquor is pale yellow and is always served with a mouse skull. It smells of sunflower oil.,30.0,20.41,False,True,True
+84,shop-vendor,Drinks,Liquor,Elquestria,This is the generic name given to elven liquors that are made for export by non-elven distributors. These weak liquors vary per region but most are gins that smell like a forest after a heavy rain.,8.0,4.08,False,True,True
+85,shop-vendor,Drinks,Liquor,Elverquis,This rare and expensive liquor is said to be distilled from sunlight and rare berries. This drink is often used sparingly in various elven rituals and is rarely exported. It is always stored in glass bottle/jug..,Error on the price,4.08,True,False,False
+86,shop-vendor,Drinks,Liquor,Fireball,This is a cinnamon schnapps that is hard to get used to. It was originally marketed for spellcasters to drink but it never really caught on. Its sits on most bar shelves as a gimmick more than anything else.,3.0,4.08,False,False,True
+87,shop-vendor,Drinks,Liquor,Fireball[5 gallon mini keg],This is a cinnamon schnapps that is hard to get used to. It was originally marketed for spellcasters to drink but it never really caught on. Its sits on most bar shelves as a gimmick more than anything else.,30.0,20.41,False,False,True
+88,shop-vendor,Drinks,Liquor,Flindmaker,"This clear liquor smells vaguely of rotten eggs and was originally made by gnolls. Certain barbarian tribes and hill giant clans began to drink it as a right of passage. It has gained prominence as the drink to start a celebration, ""because everything else will taste better.""",3.0,4.08,True,True,True
+89,shop-vendor,Drinks,Liquor,Flindmaker[5 gallon mini keg],"This clear liquor smells vaguely of rotten eggs and was originally made by gnolls. Certain barbarian tribes and hill giant clans began to drink it as a right of passage. It has gained prominence as the drink to start a celebration, ""because everything else will taste better.""",30.0,20.41,True,True,True
+90,shop-vendor,Drinks,Liquor,Hog Piss,"This eloquently named swill is one of the cheapest liquors known. It tastes terrible, causes horrendous hangovers, and is very widely distributed or made ""out back.""",0.07,4.08,False,True,True
+91,shop-vendor,Drinks,Liquor,Hog Piss[5 gallon mini keg],"This eloquently named swill is one of the cheapest liquors known. It tastes terrible, causes horrendous hangovers, and is very widely distributed or made ""out back.""",6.0,20.41,False,True,True
+92,shop-vendor,Drinks,Liquor,Kumis[5 gallon mini keg],"This is fermented horse milk. It isn’t terribly rare but is not purchased very often outside of certain regions. The taste of this weak liquor is very ""acquired.""",10.0,20.41,False,True,True
+93,shop-vendor,Drinks,Liquor,Seawine,This potent grain alcohol is not wine and not made from grapes. It is similar to a very potent grain alcohol distilled from starches found in saltwater swamps and coastal regions. The taste is said to be rather terrible but seawine is not drunk for its taste; it is drunk for its incredible potency. This stuff is very flammable.,0.6,4.08,True,True,False
+94,shop-vendor,Drinks,Liquor,Seawine[5 gallon mini keg],This potent grain alcohol is not wine and not made from grapes. It is similar to a very potent grain alcohol distilled from starches found in saltwater swamps and coastal regions. The taste is said to be rather terrible but seawine is not drunk for its taste; it is drunk for its incredible potency. This stuff is very flammable.,50.0,20.41,True,True,False
+95,shop-vendor,Drinks,Liquor,Shasta,"This is a cheap sake that is not distilled but brewed. Grain alcohol and other extracts have been added to it to the point where it is barely sake anymore. This is what a merchant might drink when pretending to have taste. If nothing else, shasta is very potent..",0.5,4.08,True,False,True
+96,shop-vendor,Drinks,Liquor,Shasta[5 gallon mini keg],"This is a cheap sake that is not distilled but brewed. Grain alcohol and other extracts have been added to it to the point where it is barely sake anymore. This is what a merchant might drink when pretending to have taste. If nothing else, shasta is very potent..",40.0,20.41,True,False,True
+97,shop-vendor,Drinks,Liquor,Vodka,"A clear liquor, traditionally made by distilling the liquid from cereal grains that have been fermented. Rarer vodka uses potatoes or fruits as the base. The price listed is for medium quality vodka. The very best vodka can cost 20 times as much.",6.0,4.08,True,True,True
+98,shop-vendor,Drinks,Liquor,Vodka[5 gallon mini keg],"A clear liquor, traditionally made by distilling the liquid from cereal grains that have been fermented. Rarer vodka uses potatoes or fruits as the base. The price listed is for medium quality vodka. The very best vodka can cost 20 times as much.",48.0,20.41,True,True,True
+99,shop-vendor,Drinks,Liquor,White Eye Whiskey,"This whiskey has recently hit the market and is stamped with a large blind eye. The literature says it's brewed by the famous pirate, White Eye, who no one has ever heard of. But one thing is for certain; this perfectly aged and smokey whiskey is one of the best whiskeys being made now: at this price it should be.",8.0,4.08,True,False,True
+100,shop-vendor,Drinks,Liquor,White Eye Whiskey[5 gallon mini keg],"This whiskey has recently hit the market and is stamped with a large blind eye. The literature says it's brewed by the famous pirate, White Eye, who no one has ever heard of. But one thing is for certain; this perfectly aged and smokey whiskey is one of the best whiskeys being made now: at this price it should be.",75.0,20.41,True,False,True
+101,shop-vendor,Drinks,Liquor,Zzar,This is technically a heavily fortified sherry wine. It is said to taste better in salty air and has become the liquor of choice among sea pirates and merchants..,4.0,4.08,False,True,True
+102,shop-vendor,Drinks,Liquor,Zzar[5 gallon mini keg],This is technically a heavily fortified sherry wine. It is said to taste better in salty air and has become the liquor of choice among sea pirates and merchants..,42.0,20.41,False,True,True

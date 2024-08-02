@@ -1,0 +1,80 @@
+id,shop,category,sub_category,item_name,description,price_base,weight,limited_stock,rural,urban
+1,shop-jeweler,Adventuring Gear,default,"Amulet/Necklace, Mundane",NULL,0.5,NULL,True,True,True
+2,shop-jeweler,Adventuring Gear,default,"Amulet/Necklace, Exquisite",NULL,5.0,NULL,True,True,True
+3,shop-jeweler,Adventuring Gear,Arcane Focus,Crystal,"An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",10.0,0.45,False,False,True
+4,shop-jeweler,Adventuring Gear,Arcane Focus,Orb,"An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.",20.0,1.36,False,False,False
+5,shop-jeweler,Adventuring Gear,default,Jewelry (+ Gem Value),NULL,50.0,NULL,True,True,True
+6,shop-jeweler,Adventuring Gear,default,"Ring, Mundane",NULL,0.3,NULL,True,True,True
+7,shop-jeweler,Adventuring Gear,default,"Ring, Exquisite",NULL,3.0,NULL,True,True,True
+8,shop-jeweler,Adventuring Gear,default,Signet Ring,"Each signet ring has a distinctive design carved into it. When you press this ring into warm sealing wax, you leave an identifying mark.",5.0,NULL,False,True,True
+9,shop-jeweler,Tools and Kits,Artisan's Tools,Jeweler's Tools,Training with jeweler's tools includes the basic techniques needed to beautify gems. It also gives you expertise in identifying precious stones.,25.0,0.91,False,True,True
+10,shop-jeweler,Services,default,Gemstone Appraisel (3 gems),NULL,5.0,NULL,True,True,True
+11,shop-jeweler,Services,default,Resizing Jewelry,NULL,10.0,NULL,False,True,True
+12,shop-jeweler,Services,default,Set Gem (<100 gp value),NULL,45.0,NULL,False,True,True
+13,shop-jeweler,Services,default,Set Gem (100-1K gp value),NULL,75.0,NULL,False,True,True
+14,shop-jeweler,Services,default,Set Gem (>1K gp value),NULL,150.0,NULL,False,True,True
+15,shop-jeweler,Services,default,Stonecutting,"Stone cutting can refer to cutting and grinding rough, raw stones into workable segments. It is also the act of cutting facets on stones (also known as faceting).",Error on the price,NULL,False,False,True
+16,shop-jeweler,Miscellaneous,default,Gemstone (10 gp),"Common gems worth 10 gp include azurite, banded agates, blue quartz, eye agates, hematite, lapis lazuli, malachite, moss agates, obsidian, rhodochrosite, tiger eye and turquoise.",10.0,NULL,True,True,True
+17,shop-jeweler,Miscellaneous,default,Gemstone (50 gp),"Common gems worth 50 gp include bloodstones, carnelian, chalcedony, chrysoprase, citrines, jaspers, moonstones, onyx, quartz, sardonyx, star rose quartz and zircons.",50.0,NULL,True,True,True
+18,shop-jeweler,Miscellaneous,default,Gemstone (100 gp),"Common gems worth 100 gp include amber, amethyst, chrysoberyl, coral, garnets, jade, jet, pearl, spinel and tourmaline.",100.0,NULL,False,True,True
+19,shop-jeweler,Miscellaneous,default,Gemstone (500 gp),"Common gems worth 500 gp include alexandrite, aquamarine, black pearl, blue spinel, peridot and topaz.",500.0,NULL,False,False,True
+20,shop-jeweler,Miscellaneous,default,"Gemstone (1,000 gp)","Common gems worth 1,000 gp include black opals, blue sapphires, emeralds, fire opals, opals, star rubys, star sapphires and yellow sapphires.",1000.0,NULL,False,False,False
+21,shop-jeweler,Miscellaneous,default,"Gemstone (5,000 gp)","Common gems worth 5,000 gp include black sapphires, diamond, hyacinths and rubies.",5000.0,NULL,False,False,False
+22,shop-jeweler,Gemstones,Gemstones (10 gp),Azurite (deep blue),NULL,10.0,NULL,True,True,True
+23,shop-jeweler,Gemstones,Gemstones (10 gp),Banded agate (Brown / Blue),NULL,10.0,NULL,True,True,True
+24,shop-jeweler,Gemstones,Gemstones (10 gp),Blue Quartz (pale blue),NULL,10.0,NULL,True,True,True
+25,shop-jeweler,Gemstones,Gemstones (10 gp),"Eye Agate (circles, gray / blue)",NULL,10.0,NULL,True,True,True
+26,shop-jeweler,Gemstones,Gemstones (10 gp),Hematite (opaque gray-black),NULL,10.0,NULL,True,True,True
+27,shop-jeweler,Gemstones,Gemstones (10 gp),Lapis Lazuli (blue with yellow),NULL,10.0,NULL,True,True,True
+28,shop-jeweler,Gemstones,Gemstones (10 gp),Malachite (striated greens),NULL,10.0,NULL,True,True,True
+29,shop-jeweler,Gemstones,Gemstones (10 gp),"Moss Agate (pale, moss marks)",NULL,10.0,NULL,True,True,True
+30,shop-jeweler,Gemstones,Gemstones (10 gp),Obsidian (opaque black),NULL,10.0,NULL,True,True,True
+31,shop-jeweler,Gemstones,Gemstones (10 gp),Rhodochrosite (light pink),NULL,10.0,NULL,True,True,True
+32,shop-jeweler,Gemstones,Gemstones (10 gp),"Tiger Eye (brown, gold center)",NULL,10.0,NULL,True,True,True
+33,shop-jeweler,Gemstones,Gemstones (10 gp),Turquoise (light blue-green),NULL,10.0,NULL,True,True,True
+34,shop-jeweler,Gemstones,Gemstones (50 gp),Bloodstone (gray with red),NULL,50.0,NULL,True,True,True
+35,shop-jeweler,Gemstones,Gemstones (50 gp),Carnelian (opaque oranges),NULL,50.0,NULL,True,True,True
+36,shop-jeweler,Gemstones,Gemstones (50 gp),Chalcedony (opaque white),NULL,50.0,NULL,True,True,True
+37,shop-jeweler,Gemstones,Gemstones (50 gp),Chrysoprase (clear green),NULL,50.0,NULL,True,True,True
+38,shop-jeweler,Gemstones,Gemstones (50 gp),Citrine (pale yellow-brown),NULL,50.0,NULL,True,True,True
+39,shop-jeweler,Gemstones,Gemstones (50 gp),"Jasper (blue, black, or brown)",NULL,50.0,NULL,True,True,True
+40,shop-jeweler,Gemstones,Gemstones (50 gp),Moonstone (white and glow),NULL,50.0,NULL,True,False,True
+41,shop-jeweler,Gemstones,Gemstones (50 gp),"Onyx (black, white, or both)",NULL,50.0,NULL,True,True,True
+42,shop-jeweler,Gemstones,Gemstones (50 gp),Quartz (transparent range),NULL,50.0,NULL,True,True,True
+43,shop-jeweler,Gemstones,Gemstones (50 gp),Sardonyx (red and white),NULL,50.0,NULL,True,True,True
+44,shop-jeweler,Gemstones,Gemstones (50 gp),Star Rose Quartz (white star),NULL,50.0,NULL,True,True,True
+45,shop-jeweler,Gemstones,Gemstones (50 gp),Zircon (pale blue-green),NULL,50.0,NULL,True,True,True
+46,shop-jeweler,Gemstones,Gemstones (100 gp),Amber (watery gold),NULL,100.0,NULL,True,False,True
+47,shop-jeweler,Gemstones,Gemstones (100 gp),Amethyst (deep purple),NULL,100.0,NULL,True,False,False
+48,shop-jeweler,Gemstones,Gemstones (100 gp),Chrysoberyl (yellow-green),NULL,100.0,NULL,True,False,True
+49,shop-jeweler,Gemstones,Gemstones (100 gp),Coral (opaque crimson),NULL,100.0,NULL,True,False,False
+50,shop-jeweler,Gemstones,Gemstones (100 gp),"Garnet (red, or violet)",NULL,100.0,NULL,True,False,True
+51,shop-jeweler,Gemstones,Gemstones (100 gp),Jade (green to white),NULL,100.0,NULL,True,False,True
+52,shop-jeweler,Gemstones,Gemstones (100 gp),Jet (opaque deep black),NULL,100.0,NULL,True,False,True
+53,shop-jeweler,Gemstones,Gemstones (100 gp),Pearl (lustrous white to pink),NULL,100.0,NULL,True,True,True
+54,shop-jeweler,Gemstones,Gemstones (100 gp),Spinel (clear red to green),NULL,100.0,NULL,True,False,True
+55,shop-jeweler,Gemstones,Gemstones (100 gp),Tourmaline (pale red / brown),NULL,100.0,NULL,True,False,True
+56,shop-jeweler,Gemstones,Gemstones (500 gp),Alexandrite (dark green),NULL,500.0,NULL,True,False,True
+57,shop-jeweler,Gemstones,Gemstones (500 gp),Aquamarine (pale green-blue),NULL,500.0,NULL,True,False,True
+58,shop-jeweler,Gemstones,Gemstones (500 gp),Black Pearl (pure black),NULL,500.0,NULL,True,False,False
+59,shop-jeweler,Gemstones,Gemstones (500 gp),Blue Spinel (deep blue),NULL,500.0,NULL,True,False,True
+60,shop-jeweler,Gemstones,Gemstones (500 gp),Peridot (rich olive green),NULL,500.0,NULL,True,False,True
+61,shop-jeweler,Gemstones,Gemstones (500 gp),Topaz (golden yellow),NULL,500.0,NULL,True,False,False
+62,shop-jeweler,Gemstones,"Gemstones (1,000 gp)",Black Opal (translucent green),NULL,1000.0,NULL,True,False,False
+63,shop-jeweler,Gemstones,"Gemstones (1,000 gp)",Blue Sapphire (shades of blue),NULL,1000.0,NULL,True,False,False
+64,shop-jeweler,Gemstones,"Gemstones (1,000 gp)",Emerald (deep bright green),NULL,1000.0,NULL,True,False,True
+65,shop-jeweler,Gemstones,"Gemstones (1,000 gp)",Fire Opal (fiery red),NULL,1000.0,NULL,True,False,False
+66,shop-jeweler,Gemstones,"Gemstones (1,000 gp)",Opal (pale blue with green),NULL,1000.0,NULL,True,False,True
+67,shop-jeweler,Gemstones,"Gemstones (1,000 gp)",Star Ruby (ruby with star),NULL,1000.0,NULL,True,False,False
+68,shop-jeweler,Gemstones,"Gemstones (1,000 gp)",Star Sapphire (blue with star),NULL,1000.0,NULL,True,False,False
+69,shop-jeweler,Gemstones,"Gemstones (1,000 gp)",Yellow Sapphire (fiery yellow),NULL,1000.0,NULL,True,False,False
+70,shop-jeweler,Gemstones,"Gemstones (5,000 gp)",Black Sapphire (lustrous black),NULL,5000.0,NULL,True,False,False
+71,shop-jeweler,Gemstones,"Gemstones (5,000 gp)",Diamond (transparent),NULL,5000.0,NULL,True,False,False
+72,shop-jeweler,Gemstones,"Gemstones (5,000 gp)",Jacinth (fiery orange),NULL,5000.0,NULL,True,False,False
+73,shop-jeweler,Gemstones,"Gemstones (5,000 gp)",Ruby (shades of red),NULL,5000.0,NULL,True,False,False
+74,shop-jeweler,Gemstones,Powdering of Gems,Gemstones (10 gp),NULL,20.0,NULL,True,True,True
+75,shop-jeweler,Gemstones,Powdering of Gems,Gemstones (50 gp),NULL,70.0,NULL,True,True,True
+76,shop-jeweler,Gemstones,Powdering of Gems,Gemstones (100 gp),NULL,150.0,NULL,False,False,True
+77,shop-jeweler,Gemstones,Powdering of Gems,Gemstones (500 gp),NULL,600.0,NULL,False,False,True
+78,shop-jeweler,Gemstones,Powdering of Gems,Gemstones (1000 gp),NULL,1500.0,NULL,False,False,False
+79,shop-jeweler,Gemstones,Powdering of Gems,Gemstones (5000 gp),NULL,6000.0,NULL,False,False,False

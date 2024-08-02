@@ -1,0 +1,10 @@
+id,shop,category,sub_category,item_name,description,price_base,weight,limited_stock,rural,urban
+1,shop-bookstore,Adventuring Gear,default,"Book, Common, Soft Bound",NULL,8.0,1.81,True,True,True
+2,shop-bookstore,Adventuring Gear,default,"Book, Common, Hard Bound",NULL,10.0,2.27,True,True,True
+3,shop-bookstore,Adventuring Gear,default,"Book, Uncommon, Soft Bound",NULL,15.0,1.81,True,False,True
+4,shop-bookstore,Adventuring Gear,default,"Book, Uncommon, Hard Bound",NULL,20.0,2.27,True,False,True
+5,shop-bookstore,Adventuring Gear,default,"Book, Rare, Soft Bound",NULL,30.0,1.81,True,False,False
+6,shop-bookstore,Adventuring Gear,default,"Book, Rare, Hard Bound",NULL,50.0,2.27,True,False,False
+7,shop-bookstore,Adventuring Gear,default,Hollow Book,"A hollow book has the covers and spine of a normal tome and blends in with other books on a shelf. Its pages, however, are glued together and their middles cut out (usually leaving a half-inch border of paper) to form a space.",5.0,1.81,True,False,True
+8,shop-bookstore,Adventuring Gear,default,"Journal, Soft Bound, 25 Sheets","An empty, hard bound journal containing 25 pages.",7.0,2.27,False,False,True
+9,shop-bookstore,Adventuring Gear,default,Spellbook,"Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.",50.0,1.36,False,True,True
